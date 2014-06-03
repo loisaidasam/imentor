@@ -10,6 +10,7 @@ Python wrapper for scraping iMentor data
 
 Creating a client:
 
+    from client import Client
     c = Client("email@example.com", "password123")
 
 Using the client to read messages:
