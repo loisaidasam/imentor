@@ -28,6 +28,6 @@ Getting specific information about a message:
 
 ## About:
 
-Uses `message/list/` URL endpoint for getting a list of messages.
+Uses [/message/list](https://imentor.imentorinteractive.org/message/list/) URL endpoint for getting a list of messages.
 
-Uses `message/view/<message_id>/` URL endpoint for getting information specific to a message.
+Uses [/message/view/12345/](https://imentor.imentorinteractive.org/message/view/12345) URL endpoint for getting information specific to a message.
